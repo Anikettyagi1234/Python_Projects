@@ -2,7 +2,7 @@
 
 import random
 
-# import myfiles
+# import mymodules
 from hangman_art import logo
 from hangman_art import stages
 from hangman_words import words_list
